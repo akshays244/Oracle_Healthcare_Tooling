@@ -1,5 +1,5 @@
 # Oracle_Healthcare_Tooling
-It has code to silently install Oracle FMW , Data integrator over Linux 
+It has code to silently install Oracle FMW , Data integrator over Linux , which will primarily help folks to look for silent installations 
 Please follow below instructions to Use the tool . 
 1. Make a tar file to bind various installers which are required to be downloaded when user selects an option 
 2. Make changes to variables.py file which has urls of various setups to be downloaded like :
